@@ -1,0 +1,30 @@
+.sheet-header {
+	background-color: black;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	width: 100%;
+	text-align: center;
+	padding: 5px;
+	margin: 0px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.charsheet label {
+	font-size: 12px;
+	font-weight: bold;
+	display: inline-block;
+	width: 50px;
+	
+}
+
+.charsheet label.sheet-skill {
+	width:112px; 
+	font-size: 11px;
+}
+
+.charsheet input {
+	font-size: 12px;
+	border-bottom: 1px solid black;
+}
